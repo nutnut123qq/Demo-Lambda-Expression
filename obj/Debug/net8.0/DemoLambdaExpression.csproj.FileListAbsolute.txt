@@ -1,0 +1,14 @@
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\bin\Debug\net8.0\DemoLambdaExpression.exe
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\bin\Debug\net8.0\DemoLambdaExpression.deps.json
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\bin\Debug\net8.0\DemoLambdaExpression.runtimeconfig.json
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\bin\Debug\net8.0\DemoLambdaExpression.dll
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\bin\Debug\net8.0\DemoLambdaExpression.pdb
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\DemoLambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\DemoLambdaExpression.AssemblyInfoInputs.cache
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\DemoLambdaExpression.AssemblyInfo.cs
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\DemoLambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\DemoLambdaExpression.dll
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\refint\DemoLambdaExpression.dll
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\DemoLambdaExpression.pdb
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\DemoLambdaExpression.genruntimeconfig.cache
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\ref\DemoLambdaExpression.dll
