@@ -12,3 +12,4 @@ C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\
 C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\DemoLambdaExpression.pdb
 C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\DemoLambdaExpression.genruntimeconfig.cache
 C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\ref\DemoLambdaExpression.dll
+C:\Users\hahuy\source\repos\DemoLambdaExpression\DemoLambdaExpression\obj\Debug\net8.0\DemoLambdaExpression.sourcelink.json
